@@ -1,0 +1,18 @@
+# Ignore MySQL data
+data/
+mysql/
+*.db
+*.sqlite3
+
+# Git + unnecessary
+.git
+.gitignore
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node build (if any)
+node_modules/
+build/
+dist/
